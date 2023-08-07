@@ -1,0 +1,22 @@
+alert("Welcome to Minecraft Nostalgia!");
+alert("Will you like it here :)");
+
+function onClickButton() {
+  confirm("Вы уверены что хотите уйти с сайта?");
+  window.location = 'https://t.me/+an_k4NesPBk3OGFi';
+}
+
+function onClick() {
+  confirm("Вы уверены что хотите уйти с сайта?");
+  window.location = 'https://youtube.com/@0fenix';
+}
+
+function onButton() {
+  confirm("Вы уверены что хотите уйти с сайта?");
+  window.location = 'https://github.com/NoneFeLiX';
+}
+
+function onDiscord() {
+  confirm("Вы уверены что хотите уйти с сайта?");
+  window.location = 'https://discord.gg/4V9SWPvnbQ';
+}

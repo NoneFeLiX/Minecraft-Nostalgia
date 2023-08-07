@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minecraft Nostalgia</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <script src="js/main.js"></script>
+<h1>Minecraft Nostalgia</h1>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click to view your date and time</button>
+
+<p id="demo"></p>
+
+<button class="button button1">Minecraft</button>
+<button class="button button2">Nostalgia</button>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "The old Minecraft was much better than it is now. He was comfortable, sweet and beautiful, even scary... I remember everyone believed in Herobrine and were afraid to enter their own world. And now Minecraft has become some kind of shit!"'>Nostalgia</button>
+<br>
+<div class="text">
+   <p>Minecraft (от англ. mine — «шахта; добывать» + craft — «ремесло; создавать») — компьютерная инди-игра в жанре песочницы, созданная шведским программистом Маркусом Перссоном и выпущенная его студией Mojang AB. В 2009 году Перссон опубликовал начальную версию игры; в конце 2011 года была выпущена стабильная версия для компьютеров Windows, Linux и macOS с распространением через официальный сайт. В последующие годы Minecraft была портирована на мобильные устройства под управлением Android, iOS и Windows Phone; на игровые приставки PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One, New Nintendo 3DS, Nintendo Switch и Wii U; и другие платформы. В 2014 году корпорация Microsoft приобрела права на Minecraft вместе со студией Mojang AB за 2,5 миллиарда долларов. В 2017 году была выпущена мультиплатформенная версия игры, объединившая различные версии для разных устройств.</p>
+</div>
+<br>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.F0mIB5kWOldDWtdyWipr2AHaD3%26pid%3DApi&f=1&ipt=a72bcd7d647b1b375e5271b31227bf2be24cfa55ae050d433cd36ca929e29af5&ipo=images">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLSho9uTerclRXX3CSKhAwHaE8%26pid%3DApi&f=1&ipt=60913c45d9959f7f6b3fc2fd521322a6f7244edaf93d60208b74aee883d9ba07&ipo=images">
+<br>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.o2lZpyYwN7SWFX8pZiy80AHaE8%26pid%3DApi&f=1&ipt=f18672d0e9ff8f211bc65db1f74151ad420e59fa93b3dd56761cb6ffa7bbfc7f&ipo=images" height="800px" width="1300px">
+<button onclick="onClickButton()">Subscribe to our channel in Telegram</button>
+<button onclick="onClick()">Subscribe to our YouTube channel</button>
+<button onclick="onButton()">Subscribe to our channel in GitHub</button>
+<button onclick="onDiscord()">Subscribe to our channel in Discord</button>
+</body>
+</html>
